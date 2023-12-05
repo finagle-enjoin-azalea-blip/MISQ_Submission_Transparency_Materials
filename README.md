@@ -1,5 +1,3 @@
-# MISQ_Submission_Transparency_Materials
-
 # Transparency Materials for Submission MISQ - 2023-RA-19105
 
 This repository serves as an inventory of potential transparency materials associated with our submission to MISQ. 
